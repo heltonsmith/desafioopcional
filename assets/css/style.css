@@ -1,0 +1,14 @@
+body * {
+    margin: 0;
+    padding:0;
+}
+
+.texto {
+    color: white;
+}
+
+#navbarNav a {
+    color: white !important;
+
+}
+
